@@ -1,7 +1,11 @@
 # OEIS candidate (no A-number yet): Maximum pre-coverage vertex visits on subcubic graphs
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted.** (replaced by the registry tool)
+**OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
+
+- A______, same walk, largest visit count before first cover: **candidate** (2026-11-13: repository built (core c2)). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
 
 ## Definition
