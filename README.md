@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
 
-- A______, same walk, largest visit count before first cover: **candidate** (2026-11-13: repository built (core c2)). Certificate: complete.
+- A______, same walk, largest visit count before first cover: **verified** (2026-11-13: verified: independent ChatGPT recount to n = 12, rerun by the guide). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
