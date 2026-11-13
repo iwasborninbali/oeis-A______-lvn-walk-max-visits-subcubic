@@ -1,7 +1,7 @@
 # OEIS candidate (no A-number yet): Maximum pre-coverage vertex visits on subcubic graphs
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted; no A-number yet** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted; no A-number yet** (lab registry, 14 Nov 2026).
 
 - A______, same walk, largest visit count before first cover: **verified** (2026-11-13: verified: independent ChatGPT recount to n = 12, rerun by the guide). Certificate: complete.
 
